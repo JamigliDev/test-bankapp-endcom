@@ -7,7 +7,7 @@
 
     <androidx.cardview.widget.CardView
         android:layout_gravity="top"
-        android:layout_width="80dp"
+        android:layout_width="60dp"
         android:layout_height="wrap_content"
         android:background="@drawable/rounded_card"
         android:backgroundTint="@color/greenbg100">

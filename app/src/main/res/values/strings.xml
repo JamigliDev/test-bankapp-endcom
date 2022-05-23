@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">TestBankApp</string>
     <string name="titular">Titular</string>
+    <string name="mis_cuentas">Mis cuentas</string>
+    <string name="enviar_dinero">Enviar dinero</string>
+    <string name="add_card">+ Agrega una tarjeta de débito o crédito</string>
 </resources>
